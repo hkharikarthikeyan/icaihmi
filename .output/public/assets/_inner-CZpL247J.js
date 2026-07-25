@@ -1,0 +1,1 @@
+import{o as e}from"./useStore-CsI6HBwk.js";import{m as t}from"./index-CB5suAL6.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`container-page py-10`,children:(0,n.jsx)(`div`,{className:`min-w-0 bg-white`,children:(0,n.jsx)(t,{})})})}export{r as component};
